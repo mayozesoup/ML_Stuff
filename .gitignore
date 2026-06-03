@@ -1,4 +1,4 @@
 .idea
 .venv
-./cnn_pytorch/data/
-./cnn_pytorch/models/
+cnn_pytorch/data/
+cnn_pytorch/models/
