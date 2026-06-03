@@ -1,2 +1,2 @@
 # ML_Stuff
-Self Learning ML
+#### Documenting a few small projects I did to learn ML
